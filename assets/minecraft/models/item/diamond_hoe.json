@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/shears"
+  },
+  "overrides": [
+{ "predicate": { "damaged": 0, "damage": 0.000640615}, "model": "item/animals/dolphin"},
+      { "predicate": { "damaged": 0, "damage": 0.00128123}, "model": "item/animals/orca"},
+      { "predicate": { "damaged": 0, "damage": 0.001921845}, "model": "item/animals/sealion2"},
+      { "predicate": { "damaged": 0, "damage": 0.00256246}, "model": "item/animals/sealion"},
+      { "predicate": { "damaged": 0, "damage": 0.02100840336}, "model": "item/rides/manta_seats"},
+	  { "predicate": { "damaged": 1, "damage": 0.02521008403}, "model": "item/rides/if_raft"}
+  ]
+}  

@@ -1,0 +1,28 @@
+    "variants": {
+
+        "normal": [
+
+            {
+                "model": "block/bookshelf",
+                "weight": 197
+            },
+
+            {
+                "model": "block/acacia_planks/block/1",
+                "weight": 1
+            },
+
+            {
+                "model": "block/acacia_planks/block/2",
+                "weight": 1
+            },
+
+            {
+                "model": "block/acacia_planks/block/3",
+                "weight": 1
+            }
+
+        ]
+
+    }
+
