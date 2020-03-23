@@ -10,6 +10,7 @@
       { "predicate": { "damaged": 0, "damage": 0.01680672269}, "model": "item/rides/manta_front"},
       { "predicate": { "damaged": 0, "damage": 0.02100840336}, "model": "item/rides/manta_seats"},
 	  { "predicate": { "damaged": 0, "damage": 0.02521008403}, "model": "item/rides/if_raft"},
+	  { "predicate": { "damaged": 1, "damage": 0.02941176471}, "model": "item/models/waterfordcar"},
 
 
       { "predicate": { "damaged": 1, "damage": 0.00420168}, "model": "item/rides/iasw_boat"},
